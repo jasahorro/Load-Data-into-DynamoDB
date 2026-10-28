@@ -1,5 +1,7 @@
 # Load Data into DynamoDB — Cheat Sheet
 
+> 📚 **Part 1 of 2** in my DynamoDB projects · Next: [Query Data with DynamoDB](https://github.com/jasahorro/Query-Data-with-DynamoDB/blob/main/CHEATSHEET.md) →
+
 Lesson notes for reviewing later. The project write-up is in [README.md](README.md).
 
 ## Contents
